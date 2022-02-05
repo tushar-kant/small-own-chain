@@ -1,1 +1,1 @@
-# small-own-chain
+# a small block chain
